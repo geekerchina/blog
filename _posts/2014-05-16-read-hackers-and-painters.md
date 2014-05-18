@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackers and Painters Reading review"
-date:   2014-05-12 14:47:01
+date:   2014-05-16 14:47:01
 categories: bookreview
 ---
 

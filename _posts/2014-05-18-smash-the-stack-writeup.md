@@ -10,7 +10,7 @@ categories: writeup
 打开/levels/
 直接gdb level01
 disassemble main
-![level01_smash_the_stack](../public/img/level01_140518.png)
+![level01_smash_the_stack](/blog/public/img/level01_140518.png)
 
 将0x10f转换为十进制是271
 

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "learn android by game"
+date: 2014-07-11 19:00:00
+categories: post
+---
 #Adb shell command for play
 	
 	1. getprop ro.sf.lcd_density //get lcd density

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IO Smashthestack level1"
+title:  "Smashthestack IO Writeup"
 date:   2014-05-18 22:30:01
 categories: writeup
 ---

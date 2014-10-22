@@ -2,3 +2,8 @@ name: Geeker China Blog
 markdown: redcarpet
 pygments: true
 destination: /var/www/blog
+markdown:      redcarpet
+markdown_ext:  markdown,mkd,mkdn,md
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
